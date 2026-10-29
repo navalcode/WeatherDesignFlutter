@@ -1,13 +1,13 @@
-# WeatherDesignFlutter
+# Weather screen study
 
-<!-- navalcode:historical-context -->
-**Historical learning project · Proyecto histórico de aprendizaje**
+[English](#overview) · [Español](#resumen)
 
-Historical Flutter weather-screen study. Its assets and environment are outside the current verified portfolio. This presentation update does not claim a current build or production readiness. Original documentation and attribution are retained below when present.
+## Overview
 
-**Español.** Estudio histórico de una pantalla meteorológica Flutter. Sus recursos y entorno quedan fuera del portfolio verificado actual. Esta actualización de presentación no acredita compilación actual ni uso en producción. Se conserva la documentación y atribución originales cuando existen.
+Flutter weather-screen UI study. Asset provenance and compatibility with current Flutter versions have not been revalidated.
 
-[Current mobile portfolio / Portfolio móvil actual](https://passkeys.navalcode.org/portfolio/) · [GitHub profile](https://github.com/navalcode)
+## Resumen
 
----
+Estudio de interfaz meteorológica con Flutter. Queda pendiente revisar la procedencia de sus recursos y la compatibilidad con versiones actuales de Flutter.
 
+[More of my work · Más proyectos](https://github.com/navalcode)
